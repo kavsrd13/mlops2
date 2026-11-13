@@ -3,7 +3,7 @@
   "method": "supervised",
   "training_type": "GlobalStandard",
   "hyperparameters": {
-    "n_epochs": 2,
+    "n_epochs": 1,
     "batch_size": 4,
     "learning_rate_multiplier": 0.5
   },
